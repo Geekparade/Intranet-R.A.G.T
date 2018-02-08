@@ -3,7 +3,11 @@
 body{
 	font-family: arial, helvetica, sans-shérif;
 	font-size: 16px;
-	background-image: url('../img/7--570232-Gerstenfeld.jpg');
+	background-image: url('../img/glenn-carstens-peters-112923.jpg');
+	/*https://unsplash.com/photos/2E_dT65fyxo*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
 }
 
 /**********************/
