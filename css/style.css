@@ -12,8 +12,7 @@ body{
 /**********************/
 /*   start HEADER     */
 /**********************/        
-
-header.logo{
+header .logo{
 	position:relative;
 	top: 12px;
 	width: 600px;
@@ -21,9 +20,9 @@ header.logo{
 	margin: auto;
 }
 header h1{
-	margin-left: 38%;
+	margin-left: 45%;
 	margin-top: -10px;
-	color: rgb(0, 141, 88);
+	color: rgb(227, 5, 32);
 	font-style: italic;
 	font-weight: bold;
 }
