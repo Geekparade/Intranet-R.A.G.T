@@ -1,4 +1,33 @@
 /*Test Page Style*/
-	body{
+/*	body{
 		background-color: black;
-	}
+	}*/
+body{
+	font-family: arial, helvetica, sans-shérif;
+	font-size: 16px;
+	background-image: url('../img/7--570232-Gerstenfeld.jpg');
+	
+}
+
+/**********************/
+/*   start HEADER     */
+/**********************/        
+
+header.logo{
+	position:relative;
+	top: 12px;
+	width: 600px;
+	display: block;
+	margin: auto;
+}
+header h1{
+	margin-left: 38%;
+	margin-top: -10px;
+	color: rgb(0, 141, 88);
+	font-style: italic;
+	font-weight: bold;
+}
+
+/**********************/
+/*   end HEADER     */
+/**********************/
